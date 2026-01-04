@@ -10,9 +10,9 @@ No priority here, just things that are wanted/needed.
 5. Be able to SFTP config files to devices. 
 
 # Requirements
-Nemiko\n
-Python3\n
-Lab routers/switches\n
+1. Nemiko
+2. Python3
+3. Lab routers/switches
 
 # Notes
 This is an entry level development project being written by a Network engineer. This goal for this is for me to learn and build a functioning tool without using AI to actually write the tool. Suggestions are welcome, however, I will not be accepting changes to the codebase as I want to write this myself. Please feel free to fork the repo and develop independently. 
